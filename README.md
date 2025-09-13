@@ -46,15 +46,7 @@ It allows buyers to hire services, place orders, and make payments, while seller
 
 - **Swagger UI:** [http://127.0.0.1:8000/swagger/](http://127.0.0.1:8000/swagger/) 
 
-Install dependencies:
-
-```bash
-pip install drf-yasg
-
-
 ---
-
-
 ## ⚙️ Installation & Setup
 
 ### 1. Clone Repository
