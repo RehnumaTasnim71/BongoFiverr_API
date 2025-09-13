@@ -38,9 +38,22 @@ It allows buyers to hire services, place orders, and make payments, while seller
 - **Database:** PostgreSQL (can use SQLite for development)  
 - **Authentication:** JWT (via `djangorestframework-simplejwt`)  
 - **Frontend (optional):** Django Templates / React / Vue (future)  
-- **Deployment:** Gunicorn + Nginx (Linux) / Vercel (demo setup)  
+- **Deployment:** Vercel (demo setup)  
 
 ---
+
+## 📡 API Documentation (Swagger)
+
+- **Swagger UI:** [http://127.0.0.1:8000/swagger/](http://127.0.0.1:8000/swagger/) 
+
+Install dependencies:
+
+```bash
+pip install drf-yasg
+
+
+---
+
 
 ## ⚙️ Installation & Setup
 
